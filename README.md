@@ -11,7 +11,7 @@
 
 ### 🧭 About Me
 
-- 🎓 B.Tech Computer Engineering (Major: Data Science) @ **Ramrao Adik Institute of Technology**, CGPA 8.9/10
+- 🎓 B.Tech Computer Engineering (Major: Data Science) @ **Ramrao Adik Institute of Technology**, CGPA 9.00/10
 - 🧑‍💻 Building **full-stack + AI/ML systems** — FastAPI/React backends, ML pipelines, real-time dashboards
 - 🧩 **Tech Lead / WebMaster** @ RAIT ACM SIGAI Student Chapter — run national-level hackathons for 100+ participants
 - 🔭 Currently building fixed-income trading simulators, AI research assistants, and fraud-detection pipelines
